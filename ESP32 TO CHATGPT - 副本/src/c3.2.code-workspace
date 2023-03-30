@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../c3.2"
+		},
+		{
+			"name": "esp32c3",
+			"path": "../../esp32c3"
+		},
+		{
+			"name": "ESP32 TO CHATGPT",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
